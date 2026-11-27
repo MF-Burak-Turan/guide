@@ -1,1 +1,1 @@
-"Git alistirmasi" 
+"kam" 
